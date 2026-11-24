@@ -3,10 +3,12 @@ Contact information, accounts, and public key for livingSatire.
 
 ## Email
 Proton: livingSatire@protonmail.com
+
 Tutamail: livingSatire@tutamail.com
 
 ## Accounts
 Github: https://github.com/livingSatire
+
 Matrix: @livingsatire:matrix.org
 
 ## GPG Public Key
