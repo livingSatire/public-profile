@@ -1,2 +1,31 @@
 # public-profile
 Contact information, accounts, and public key for livingSatire. 
+
+## Email
+Proton: livingSatire@protonmail.com
+Tutamail: livingSatire@tutamail.com
+
+## Accounts
+Github: https://github.com/livingSatire
+Matrix: @livingsatire:matrix.org
+
+## GPG Public Key
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mG8EawRejRMFK4EEACIDAwSt39RWXrz/aisyKfhDyNY5uTYgi3lqt+3yzObBG4bJ
+wnwod7oM2TzuJubycnMLFYN9uwTNedu4+MjNCaUZV9Shy8mwnxBW0893Nvr1HT4R
+PgvPVZbWGmSglXt5YpH8AYy0N2xpdmluZ1NhdGlyZSAobGl2aW5nU2F0aXJlKSA8
+bGl2aW5nU2F0aXJlQHR1dGFtYWlsLmNvbT6IzwQTEwkAVxYhBLkJxdbVOAIY/JM1
+qt5FY5LNSOjGBQJrBF6NGxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIsMgIbAwUL
+CQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRDeRWOSzUjoxs8HAXsH828fULm7
+qXTgGU6/POhElqepWyhBTrbPxyKnAdC18jTwhafjey1n7/qx4HIDiFQBf19j82zq
+Oi2GLRxtAjFeM95mHcb4g9VIFjfZyNj4Q1hmCHNO44rKILRO5o35Gq2rFLhzBGsE
+Xo0SBSuBBAAiAwMEV4AutUvQEUpb2nKQhCggEDUtrDxPLVFlCpmLxciguTspVVZA
+mYBm9oesIXCRXGioVsWGwbjxMQncdpCSDO+ATRyzbAULIIAcghh25aSA6etC4M7q
+PpXCuQjjfq6Idc6vAwEJCYi0BBgTCQA8FiEEuQnF1tU4Ahj8kzWq3kVjks1I6MYF
+AmsEXo0bFIAAAAAABAAObWFudTIsMi41KzEuMTIsMiwyAhsMAAoJEN5FY5LNSOjG
+uaoBfjlmwY4UTo3OEBwrGux2ZdN2yQx4hjs0GAokSrxVojFZWx5X2BwJRzmX1Lgf
+26o3QQF/SsPyZ+jQ47T1ohLcCdUtxu6ISNSzOTMndI27ZjrxVAscGkEPpVJY1M3F
+wmRfk/q/
+=sei+
+-----END PGP PUBLIC KEY BLOCK-----
